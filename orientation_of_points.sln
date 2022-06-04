@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "orientation_of_points", "orientation_of_points\orientation_of_points.vcxproj", "{A894677C-44FE-411D-9236-5A236B68B4E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A894677C-44FE-411D-9236-5A236B68B4E8}.Debug|x64.ActiveCfg = Debug|x64
+		{A894677C-44FE-411D-9236-5A236B68B4E8}.Debug|x64.Build.0 = Debug|x64
+		{A894677C-44FE-411D-9236-5A236B68B4E8}.Debug|x86.ActiveCfg = Debug|Win32
+		{A894677C-44FE-411D-9236-5A236B68B4E8}.Debug|x86.Build.0 = Debug|Win32
+		{A894677C-44FE-411D-9236-5A236B68B4E8}.Release|x64.ActiveCfg = Release|x64
+		{A894677C-44FE-411D-9236-5A236B68B4E8}.Release|x64.Build.0 = Release|x64
+		{A894677C-44FE-411D-9236-5A236B68B4E8}.Release|x86.ActiveCfg = Release|Win32
+		{A894677C-44FE-411D-9236-5A236B68B4E8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB4E6E56-37C4-413C-A4C7-1CFB7E2AF84D}
+	EndGlobalSection
+EndGlobal
